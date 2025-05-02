@@ -3,10 +3,10 @@
 <div align="center">
   <img src="app/src/main/res/drawable/app_logo.png" alt="NotePad Logo" width="150" height="150"/>
   
-  [![GitHub stars](https://img.shields.io/github/stars/yourusername/NotePad?style=social)](https://github.com/yourusername/NotePad/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/yourusername/NotePad?style=social)](https://github.com/yourusername/NotePad/network/members)
-  [![GitHub license](https://img.shields.io/github/license/yourusername/NotePad)](https://github.com/yourusername/NotePad/blob/main/LICENSE)
-  [![Android CI](https://github.com/yourusername/NotePad/workflows/Android%20CI/badge.svg)](https://github.com/yourusername/NotePad/actions)
+  [![GitHub stars](https://img.shields.io/github/stars/MShehrozJamshaid/NotePad?style=social)](https://github.com/MShehrozJamshaid/NotePad/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/MShehrozJamshaid/NotePad?style=social)](https://github.com/MShehrozJamshaid/NotePad/network/members)
+  [![GitHub license](https://img.shields.io/github/license/MShehrozJamshaid/NotePad)](https://github.com/MShehrozJamshaid/NotePad/blob/main/LICENSE)
+  [![Android CI](https://github.com/MShehrozJamshaid/NotePad/workflows/Android%20CI/badge.svg)](https://github.com/MShehrozJamshaid/NotePad/actions)
   [![API](https://img.shields.io/badge/API-24%2B-brightgreen.svg)](https://android-arsenal.com/api?level=24)
 
   <h3>A Modern, Material Design Note-Taking App for Android</h3>
@@ -69,7 +69,7 @@
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/NotePad.git
+git clone https://github.com/MShehrozJamshaid/NotePad.git
 ```
 
 2. Open in Android Studio
@@ -142,7 +142,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Created with ❤️ by [Your Name](https://github.com/yourusername)
+Created with ❤️ by [M Shehroz Jamshaid](https://github.com/MShehrozJamshaid)
 
 <div align="center">
   <img src="docs/thank_you.gif" alt="Thank You" width="200"/>
